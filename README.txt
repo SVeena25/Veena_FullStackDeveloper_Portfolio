@@ -5,7 +5,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 This is Big Picture, a simple, single page responsive site template by HTML5 UP.
 
-So I've been on a single page kick as of late, partly because I'm lazy, but
+So I've been on a single page kick as of late, partly because I'm excited, but
 mostly because they kick ass for experimentation. In this case, Big Picture
 makes heavy use of my (tentatively named and soon to be released) "scrollgress"
 and "scrollwatch" jQuery plugins to pull off some interesting effects as you
